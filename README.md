@@ -1,4 +1,4 @@
-# Save the destroyed photo
+# 𝓢𝓐𝓥𝓔 𝓣𝓗𝓔 𝓓𝓔𝓢𝓣𝓡𝓞𝓨𝓔𝓓/𝓣𝓘𝓜𝓘𝓝𝓖 𝓟𝓗𝓞𝓣𝓞
 Please use Thermox software <br>
 You can install Thermox via the link below : <br>
 https://play.google.com/store/apps/details?id=com.termux <br>
