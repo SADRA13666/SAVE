@@ -15,7 +15,7 @@ pip install Telethon <br>
 pkg install git <br>
 git clone https://github.com/SADRA13666/SAVE.git <br>
 ls <br>
-cd Save <br>
+cd SAVE <br>
 python Save.py <br>
 
 By replaying the word ( وایسا ) to the destroyed message, you can save it <br>
